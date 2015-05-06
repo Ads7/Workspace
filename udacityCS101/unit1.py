@@ -150,4 +150,4 @@ def plot_graph(graph):
 # 			e[1] == value
 # 			return
 # 	bucket.append([key,value])		
-print crawl_web('https://docs.python.org')
+crawl_web('https://docs.python.org')
